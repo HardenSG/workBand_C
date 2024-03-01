@@ -1,5 +1,9 @@
 # Taro + TS + ReactHook博客系统
 
+### 需要环境
+- node >= 18.18.0 建议使用nvm
+- pnpm
+
 ## 主技术栈
 
 1. Taro3.5.11
